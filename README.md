@@ -1,2 +1,2 @@
-# A simple multiple client - server chat using socket.io framework
-
+# Live Chat
+A simple live chat with multiple users
